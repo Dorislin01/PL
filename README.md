@@ -1,5 +1,5 @@
 # PL
-1ST assignment {https://github.com/Dorislin01/ciciviviNpcChat}
+1ST assignment {https://github.com/Dorislin01/ciciviviNpcChat.git}
 
 2nd assignment {https://github.com/Dorislin01/2ndassignment.git}
 
